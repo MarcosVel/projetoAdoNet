@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjAdoNet", "prjAdoNet\prjAdoNet.csproj", "{6C4CB987-6F82-4962-8F31-8F42FBA207AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4CB987-6F82-4962-8F31-8F42FBA207AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4CB987-6F82-4962-8F31-8F42FBA207AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4CB987-6F82-4962-8F31-8F42FBA207AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4CB987-6F82-4962-8F31-8F42FBA207AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414DD3B3-139E-48AF-A483-5ECA9E2D2BFA}
+	EndGlobalSection
+EndGlobal
