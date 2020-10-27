@@ -281,6 +281,8 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="BLL\Departamento.cs" />
+    <Compile Include="BLL\Funcoes.cs" />
     <Compile Include="CFuncionario.aspx.cs">
       <DependentUpon>CFuncionario.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -295,6 +297,7 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="DAL\SQLHelper.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
